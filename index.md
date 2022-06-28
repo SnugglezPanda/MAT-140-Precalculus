@@ -6,7 +6,7 @@
 
 # <em>Graphing Absolute Value Functions</em>
 
-Graph y = 2 | x + 3 | - 7
+Graph y=2|x+3|-7
 
 <ol>
   <li> Determine vertex. That's the point where the term inside the aboslute value is 0, so here that is
@@ -40,6 +40,39 @@ Here are steps to drawing a parabola using the vertex - one other point method:
 
 | To Do | Module One Assignments |
 | ----- | ---------------------- |
-| -[] Inter Alg Self-Assessment Exam | is due at end of the week |
+| -[x] Inter Alg Self-Assessment Exam | is due at end of the week |
 | -[] Participation Activities |  due at the end of the week |
 | -[] Porblem set | Due at the end of the week | 
+
+-----------------------------------------------------------
+
+## Linear Inequalities and Absolute Value Inequalities
+
+# <strong>LEARNING OBJECTIVE</strong>
+
+In this section you will:
+<ul>
+  <li> Use interval notation</li>
+  <li> Use properties of inequalities</li>
+  <li> Solve inequalities in one variable algebraically</li>
+  <li> Solve absolute value inequalities</li>
+</ul>
+
+# Using Interval Notation 
+
+----------------------------------------------------------
+
+Indicating the solution to an inequality such as  x≥4  can be achieved in several ways.
+
+We can use a number line as shown in Figure 2. The blue ray begins at  x=4  and, as indicated by the arrowhead, continues to infinity, which illustrates that the solution set includes all real numbers greater than or equal to  4 .
+
+We can use set-builder notation:  {x|x≥4} , which translates to “all real numbers  x  such that  x  is greater than or equal to  4 .” Notice that braces are used to indicate a set.
+
+The third method is <strong>interval notation</strong>, in which solution sets are indicated with parentheses or brackets. The solutions to  x≥4  are represented as  [4,∞) . This is perhaps the most useful method, as it applies to concepts studied later in this course and to other higher-level math courses.
+
+The main concept to remember is that parentheses represent solutions greater or less than the number, and brackets represent solutions that are greater than or equal to or less than or equal to the number. Use parentheses to represent infinity or negative infinity, since positive and negative infinity are not numbers in the usual sense of the word and, therefore, cannot be “equaled.” A few examples of an <strong>interval</strong>, or a set of numbers in which a solution falls, are  [−2,6) , or all numbers between  −2  and  6 , including  −2 , but not including  6 ;  (−1,0) , all real numbers between, but not including  −1  and  0 ; and  (−∞,1] , all real numbers less than and including  1 . <strong>Table 1</strong> outlines the possibilities.
+
+# Using the Properties of Inequalities
+
+-----------------------------------------------------------
+
