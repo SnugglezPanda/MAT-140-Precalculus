@@ -76,3 +76,66 @@ The main concept to remember is that parentheses represent solutions greater or 
 
 -----------------------------------------------------------
 
+properties of inequalities
+  Addition Property If  a<b , then  a+c<b+c .
+  Multiplication Property If  a<b  and  c>0 , then  ac<bc .
+    If  a<b  and  c<0 , then  ac>bc .
+These properties also apply to  a≤b ,  a>b , and  a≥b .
+  
+  <strong>Demonstrating addition property</strong>
+  
+  Illustrate the addition property for inequalities by solving the following:
+  
+  a. x - 15 < 4 
+  b. 6 >/= x - 1
+  c.  x + 7 > 9
+  
+  a. add 15 to both sides
+  
+  b. add 1 to both sides
+  
+  c. subtract 7 from both sides
+  
+  # <strong>Using Arrow Notation</strong>
+  
+  ![using_arrow_notation_figure1](https://user-images.githubusercontent.com/100523016/177025440-77c996d8-f563-4fc1-8e49-5a6231c54854.png)
+
+  Several things are apparent if we examine the graph of  f(x)=1x .
+
+1. On the left branch of the graph, the curve approaches the  x -axis ( y=0 ) as  x→−∞ .
+  
+2. As the graph approaches  x=0  from the left, the curve drops, but as we approach zero from the right, the curve rises.
+  
+3. Finally, on the right branch of the graph, the curves approaches the  x -axis ( y=0 ) as  x→∞ .
+  
+  We use arrow notation to show that <em>x</em> or <em>f</em>(x) is approaching a particular value. 
+  
+  ![arrow_notation_table1](https://user-images.githubusercontent.com/100523016/177025546-c7eaa985-5612-4f5f-856e-2b5aea7b2757.png)
+  
+  <strong>Local Behavior of f(x) = 1/x</strong>
+  
+  We cannot divide by zero, which means the function is undefined at x = 0; so zero is not in the domain. As the input values approach zero from the left (becomoing very small, negative values), the function values decrease without bound (in other words, they approach negative infinity). See table 2.
+  
+  ![image](https://user-images.githubusercontent.com/100523016/177025655-0820c5aa-bb62-495d-b1a3-e6fcc42c08e4.png)
+  
+Writing in arrow notation
+  
+  as ![image](https://user-images.githubusercontent.com/100523016/177025692-e3a12436-a715-41c1-9228-3a7d730096d2.png)
+
+ As the input values approach zero from the right (becoming very small, positive values), the function values  increase without bound (approaching infinity). See Table 3.
+  
+  ![image](https://user-images.githubusercontent.com/100523016/177025716-49df3fef-efb8-46e8-ba05-886b0dd4a0b3.png)
+
+  ![image](https://user-images.githubusercontent.com/100523016/177025725-21aea3eb-3a4a-4603-b2c9-47bb20135470.png)
+
+  The behaviors create a <strong>vertical asymptote</strong>, which is a vertical line that the graph approaches but never crosses. In this case the graph is approaching the vertical line x = 0 as the input becomes close to zero. See Figure 3.
+  
+  ![image](https://user-images.githubusercontent.com/100523016/177025769-3e77f63d-1648-4538-8da2-f9a103420925.png)
+
+  ![image](https://user-images.githubusercontent.com/100523016/177025780-fcea6f80-3437-4441-8be7-ef972768e37f.png)
+
+ Based on this overall behavior and the graph, we can see that the function approaches 0 but never actually reaches 0; it seems to level off as the inputs become large. This behavior creates a <strong>horizontal asymptote</strong>, a horizontal line that the graph approaches as the input increases or decreases without bound. In this case, the graph is approaching the horizontal line y=0. See Figure 5.
+
+![image](https://user-images.githubusercontent.com/100523016/177025800-0ba1e8d9-83fd-4695-ae9b-de928e631802.png)
+
+ 
