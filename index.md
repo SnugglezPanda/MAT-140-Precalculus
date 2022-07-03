@@ -102,11 +102,14 @@ These properties also apply to  a≤b ,  a>b , and  a≥b .
 
   Several things are apparent if we examine the graph of  f(x)=1x .
 
+<ol>
+  
 1. On the left branch of the graph, the curve approaches the  x -axis ( y=0 ) as  x→−∞ .
   
 2. As the graph approaches  x=0  from the left, the curve drops, but as we approach zero from the right, the curve rises.
   
 3. Finally, on the right branch of the graph, the curves approaches the  x -axis ( y=0 ) as  x→∞ .
+</ol>
   
   We use arrow notation to show that <em>x</em> or <em>f</em>(x) is approaching a particular value. 
   
@@ -140,4 +143,52 @@ Writing in arrow notation
 
 ------------------------------------------------------------------------------------------------------------------
   
+# Finding the Domains of Rational Functions
+  
+ A vertical asymptote represents a value at which a rational function is undefined, so that value is not in the domain of the function. A reciprocal function cannot have values in its domain that cause the denominator to equal zero. In general, to find the domain of a rational function, we need to determine which inputs would cause division by zero.
+  
+  <em>How to...</em>
+  
+ Given a rational function, find the domain
+  
+ <ol>
+   
+  1. Set the denominator equal to zero.
+   
+  2. Solve to find the x-values that cause the demoniator to equal zero.
+   
+  3. The domain is all real numbers execept those found in Step 2.
+ </ol>
+  
+![image](https://user-images.githubusercontent.com/100523016/177046212-443d4fdd-68e1-49c8-8f6c-459eddd1c92f.png)
 
+---------------------------------------------------------------------------------
+  
+# Identifying Vertical Asymptotes of Rational Functions
+  
+By looking at the graph of a rational function, we can investigate its local behavior and easily see whether there are asymptotes. We may even be able to approximate their location. Even without the graph, however, we can still determine whether a given rational function has any asymptotes, and calculate their location.
+
+
+  <mark>Vertical Asymptotes</mark>
+The vertical asymptotes of a rational function may be found by examining the factors of the denominator that are not common to the factors in the numerator. Vertical asymptotes occur at the zeros of such factors.
+
+   <em>How to...</em>
+  
+  Given a rational function, identify any vertical asympototes of its graph.
+  
+  <ol>
+    
+1. Factor the numerator and denominator.
+    
+2. Note any restrictions in the domain of the function.
+    
+3. Reduce the expression by canceling common factors in the numerator and the denominator.
+    
+4. Note any values that cause the denominator to be zero in this simplified version. These are where the vertical asymptotes occur.
+    
+5. Note any restrictions in the domain where asymptotes do not occur. These are removable discontinuities or "holes."
+  </ol>
+  
+  ![image](https://user-images.githubusercontent.com/100523016/177046515-572cc8b4-3f42-42f5-b71d-5841c9e81de8.png)
+
+  
