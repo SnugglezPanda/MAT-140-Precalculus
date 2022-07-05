@@ -14,5 +14,41 @@ During this module, you'll be introduced to new terms and concepts, such as <mar
 
 ![image](https://user-images.githubusercontent.com/100523016/177370195-a73411d0-0d8b-42f4-8963-00b1c8261da6.png)
 
+# Defining an Exponential Function
 
+<ul>
+  <li> <strong>Percent change</strong> refers to a <em>change</em> based on a <em>percent</em> of the original amount</li>
+  <li> <strong>Exponential growth</strong> regers to an <em>increase</em> based on a constant multiplicative rate of change over equal incrememtns of time, that is, a <em>percent</em> increase of the original amount over time.</li>
+  <li> <strong>Exponential decay</strong> refers to a <em>decrease</em> based on a constant multiplicative rate of change over equal incrememnts of time, that is <em>percent</em> decrease of the original amount over time. </li>
+</ul>
+
+To clearly understand exponential growth, contrast exponential growth with linear growth. Two functions has been constructed; the first function is exponential. Starting with an input of 0, and increase each input by 1. We double the corresponding consecutive outputs. The second function is linear. We begin with an input of 0, and increase each input by 1. We add 2 to the correspongindg consecutive outputs. See <strong>Table 1</strong>
+
+![image](https://user-images.githubusercontent.com/100523016/177381346-e89a8b0e-bdb1-4334-8dca-659a31a8d223.png)
+
+In <strong>Table 2</strong> we can infer that for these two functions, exponential growth dwarfs linear growth.
+
+<ul>
+  <li> <strong>Exponential growth</strong> refers to the original value from the range increases by the <em>same percentage</em> over equal increments found in the domain. </li>
+  <li> <strong>Linear growth</strong> refers to the original value from the range increases by the <em>same amount</em> over equal incrememnts found in the domain. </li>
+</ul>
+
+There is a significant difference between "the same percentage" and "the same amount." For exponential growth, over equal incrememnts, the constant multiplicative rate of change resulted in doubling the output whenever the input increased by one. For linear growth, the constant additive rate of change over equal incrememnts resulted in adding 2 to the output whenever the input was increased by one. 
+
+The general form of the exponential function is  f(x)=abx , where  a  is any nonzero number,  b  is a positive real number not equal to  1.
+
+<ul>
+  <li> If  b>1 , the function grows at a rate proportional to its size.</li>
+  <li> If  0<b<1 , the function decays at a rate proportional to its size. </li>
+</ul>
+
+Let’s look at the function  f(x)=2x  from our example. We will create a table (<strong>Table 2</strong>) to determine the corresponding outputs over an interval in the domain from  −3  to  3 .
+
+![image](https://user-images.githubusercontent.com/100523016/177382437-9d2cb7aa-559e-4272-bfad-f8d165501fc2.png)
+
+![image](https://user-images.githubusercontent.com/100523016/177382491-0c6ef2df-0977-40b3-a3b9-659fc0acb19a.png)
+
+<strong>Evaluating Exponential Functions</strong> 
+
+![image](https://user-images.githubusercontent.com/100523016/177384260-bf768cea-af7e-4cc5-8add-9de9f59048c9.png)
 
