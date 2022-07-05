@@ -52,3 +52,15 @@ Let’s look at the function  f(x)=2x  from our example. We will create a table 
 
 ![image](https://user-images.githubusercontent.com/100523016/177384260-bf768cea-af7e-4cc5-8add-9de9f59048c9.png)
 
+## Evaluating Functions with Base e
+
+Earlier, we saw the amount earned on an account increases as the compounding frequency increases. <strong>Table 5</strong> shows that the increase from annual to semi-annual compunding is larger than the increase from monthly to daily compounding. 
+
+Examine the vale of $1 invested at 100% interest for 1 year, compounded at various frequencies, listed in <strong>Table 5</strong>
+
+![image](https://user-images.githubusercontent.com/100523016/177389837-b98427fc-33a6-467b-8360-2f11415a019d.png)
+
+These values appear to be approaching a limit as n increases without bound. In fact, as n gets larger and larger, the expression (1 +1/n)^n approaches a number used so frequently in mathematics that it has its own name: the letter e. This value is an irrational number, which means that its decimal expansion goes on forever without repeating. Its approximation to six decimal places is shown below. 
+
+![image](https://user-images.githubusercontent.com/100523016/177392178-200cc682-5293-4c4f-b3d5-63a2a78f27a1.png)
+
